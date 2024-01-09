@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:38bdae,50:70a5fd&height=300&text=Hongjw030_World🤔!&fontColor=ffffff&fontSize=55&fontAlignY=50)
 
+> "재미있어 보이는 것은 다 배워보자!!"
+> 
+> 열심히 공부하고 즐길 건 즐기는 프론트엔드 개발자입니다!
+
 <br />
 
 ### 💻 Tech Stack 💻
