@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:38bdae,50:70a5fd&height=200&text=hongjw030🤔!&fontColor=ffffff&fontSize=55&fontAlignY=50)
 
-> 열심히 공부하고 즐기는 프론트엔드 개발자 홍재원입니다!
+> 열심히 공부하고 즐기는 웹 앱 프론트엔드 개발자 홍재원입니다!
 >
 ### 요즘 근황...
 요즘엔 챗지피티랑 노는 데에 푹 빠졌습니다. <br/>
@@ -13,16 +13,18 @@
  
 프론트엔드 개발 환경: <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
+하이브리드 앱 개발 환경:  <img src="https://img.shields.io/badge/react_native-232032?style=for-the-badge&logo=react&logoColor=white">
+
 기타: <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/zustand-Fa9052?style=for-the-badge&logo=_&logoColor=white"> <img src="https://img.shields.io/badge/jotai-Fa9052?style=for-the-badge&logo=_&logoColor=white"> 
 
 디자인: <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Mui-007FFF?style=for-the-badge&logo=MUI&logoColor=white"> <img src="https://img.shields.io/badge/Chakra-319795?style=for-the-badge&logo=Chakra-ui&logoColor=white">
 
-디비: <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=Firebase&logoColor=white">
+디비: <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
 협업: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 요즘 공부 중인 툴 & 스택은...
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 
 <br />
 
